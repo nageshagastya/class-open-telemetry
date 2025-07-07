@@ -18,3 +18,4 @@ sudo resize2fs /dev/xdva1
 
 df -h
 ```
+![image](https://github.com/user-attachments/assets/ec8c7f39-f98d-4256-9239-613424d2e6a7)
